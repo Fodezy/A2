@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".als.json": "jsonc",
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    },
+    "cSpell.words": [
+        "hyperparameters"
+    ]
+}
